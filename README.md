@@ -63,4 +63,4 @@ gcc -Wall -Werror -Wextra -pedantic -std=gnu89 -Wno-format *.c
 
 Lateyron Emma [Github](https://github.com/emma-33).
 
-Laroche Marion [Github](https://github.com/Mamuche), [LinkedIn](www.linkedin.com/in/marion-laroche-8b235a284).
+Laroche Marion [Github](https://github.com/Mamuche), [LinkedIn](www.linkedin.com/in/marion-laroche-bee).
